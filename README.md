@@ -1,5 +1,5 @@
 # 💫 About Me:
-Motivated Computer Engineering graduate (2025) with strong fundamentals in Java, SpringBoot, JDBC, Servlets, JSP, SQL, and<br>Web Technologies. Hands-on experience in developing real-world Java web applications using MVC architecture and<br>MySQL. Actively practicing Data Structures & Algorithms in Java and Solved 100+ programming challenges using Java<br>on competitive platforms. Seeking an entry-level Java Full Stack / Backend Developer role where I can contribute,<br>learn, and grow in a professional software development environment.<br>
+Motivated Computer Engineering graduate (2025) with strong fundamentals in Java, SpringBoot, JDBC, Servlets, JSP, SQL,MongoDB and<br>Web Technologies. Hands-on experience in developing real-world Java web applications using MVC architecture and<br>MySQL. Actively practicing Data Structures & Algorithms in Java and Solved 100+ programming challenges using Java<br>on competitive platforms. Seeking an entry-level Java Full Stack / Backend Developer role where I can contribute,<br>learn, and grow in a professional software development environment.<br>
 
 
 ## 🌐 Socials:
